@@ -1,0 +1,17 @@
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\bin\Debug\net7.0-windows\Converter Error Code MVT-1000.exe
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\bin\Debug\net7.0-windows\Converter Error Code MVT-1000.deps.json
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\bin\Debug\net7.0-windows\Converter Error Code MVT-1000.runtimeconfig.json
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\bin\Debug\net7.0-windows\Converter Error Code MVT-1000.dll
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\bin\Debug\net7.0-windows\Converter Error Code MVT-1000.pdb
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code MVT-1000.vbproj.AssemblyReference.cache
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter_Error_Code_MVT_1000.Form1.resources
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code MVT-1000.vbproj.GenerateResource.cache
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code MVT-1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code MVT-1000.AssemblyInfoInputs.cache
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code MVT-1000.AssemblyInfo.vb
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code MVT-1000.vbproj.CoreCompileInputs.cache
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code MVT-1000.dll
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\refint\Converter Error Code MVT-1000.dll
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code MVT-1000.pdb
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code MVT-1000.genruntimeconfig.cache
+C:\Users\nurhakim\Videos\Hakim Task\BackUP Program MVT-1000 non-Zip\VB\Converter Error Code MVT-1000\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\ref\Converter Error Code MVT-1000.dll

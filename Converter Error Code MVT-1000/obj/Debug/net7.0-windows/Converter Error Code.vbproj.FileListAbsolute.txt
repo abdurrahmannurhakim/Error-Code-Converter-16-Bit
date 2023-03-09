@@ -1,0 +1,17 @@
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\bin\Debug\net7.0-windows\Converter Error Code.exe
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\bin\Debug\net7.0-windows\Converter Error Code.deps.json
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\bin\Debug\net7.0-windows\Converter Error Code.runtimeconfig.json
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\bin\Debug\net7.0-windows\Converter Error Code.dll
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\bin\Debug\net7.0-windows\Converter Error Code.pdb
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code.vbproj.AssemblyReference.cache
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter_Error_Code_MVT_1000.Form1.resources
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code.vbproj.GenerateResource.cache
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code.AssemblyInfoInputs.cache
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code.AssemblyInfo.vb
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code.vbproj.CoreCompileInputs.cache
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code.dll
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\refint\Converter Error Code.dll
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code.pdb
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\Converter Error Code.genruntimeconfig.cache
+C:\Users\nurhakim\Music\Library Hakim\Converter Decimal To Binary 16-Bit for Error Code\Converter Error Code MVT-1000\obj\Debug\net7.0-windows\ref\Converter Error Code.dll
